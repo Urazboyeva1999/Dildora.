@@ -1,0 +1,2 @@
+# Dildora.
+Shaxsiy Ma'lumotlarim 
