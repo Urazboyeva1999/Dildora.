@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dildora O'razboyeva - Shaxsiy Web Sahifa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #1976d2;
+      color: white;
+      text-align: center;
+      padding: 30px 10px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    header p {
+      font-size: 18px;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #1976d2;
+      border-bottom: 2px solid #1976d2;
+      padding-bottom: 5px;
+    }
+    .info, .contact, .hobbies {
+      background: #fff;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 12px;
+      box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 10px 0;
+      font-size: 16px;
+    }
+    .contact a {
+      text-decoration: none;
+      color: #1976d2;
+      font-weight: bold;
+      margin-right: 15px;
+    }
+    .contact a:hover {
+      text-decoration: underline;
+    }
+    .emoji {
+      font-size: 22px;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>O'razboyeva Dildora Davronbek qizi</h1>
+    <p>Bu saytda men haqimda ma'lumotlarni topasiz. Marhamat tanishing!</p>
+  </header>
+
+  <section class="info">
+    <h2>📌 Shaxsiy ma'lumotlar</h2>
+    <ul>
+      <li><b>Ism sharifim:</b> O'razboyeva Dildora Davronbek qizi</li>
+      <li><b>Tug‘ilgan shahrim:</b> Xorazm viloyati, Qo'shko'pir tumani</li>
+      <li><b>Tug‘ilgan yilim:</b> 18.02.1999</li>
+      <li><b>Millatim:</b> O‘zbek</li>
+      <li><b>Turar joyim:</b> Xorazm viloyati, Qo‘shko‘pir tumani, Yangilik qishlog‘i, Mast mahallasi 19-uy</li>
+      <li><b>Ta’lim:</b> Toshkent Axborot Texnologiyalari Universiteti, 4-kurs talaba</li>
+    </ul>
+  </section>
+
+  <section class="hobbies">
+    <h2>✨ Qiziqishlarim va Hobbiyim</h2>
+    <ul>
+      <li><span class="emoji">🛍️</span><b>Shopping:</b> Yangi narsalarni xarid qilishdan zavqlanaman.</li>
+      <li><span class="emoji">📚</span><b>Kitob o‘qish:</b> Asosan badiiy va detektiv asarlar o‘qishni yoqtiraman.</li>
+      <li><span class="emoji">🎨</span><b>Ijod:</b> O‘zim yoqtirgan ishlarni qilish menga kuch beradi.</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>📞 Men bilan bog‘lanish</h2>
+    <p>
+      <a href="tel:+998991341502">📱 Telefon</a>
+      <a href="mailto:dildoraorazboyeva02@gmail.com">📧 Email</a>
+      <a href="https://www.instagram.com/dildlora__orazboyeva" target="_blank">📸 Instagram</a>
+      <a href="https://t.me/dildora1802" target="_blank">💬 Telegram</a>
+      <a href="https://wa.me/998991341502" target="_blank">💚 WhatsApp</a>
+    </p>
+  </section>
+
+</body>
+</html>
